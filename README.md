@@ -2,7 +2,7 @@
   
 我是千依，我来自中国，河南。我目前是一名初中生，虽然相比其他程序员年纪尚小，但热爱编程。
 
-目前会写C#或xaml。目前正在写一个启动器，如果想支持，可以[点击这](/.code/ChmlFrp_WPF_Clienter)，好了到此结束，感谢您的阅读。
+目前会写C#或xaml。目前正在写一个启动器，如果想支持，可以[点击这](https://github.com/Qianyiaz/ChmlFrp_WPF_Clienter)，好了到此结束，感谢您的阅读。
 
 <div/>
 
