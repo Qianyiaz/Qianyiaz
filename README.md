@@ -11,7 +11,7 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=qianyiaz&show_icons=true&theme=tokyonight&line_height=28">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Qianyiaz&layout=donut&theme=radical&line_height=30">
-  <img src ="https://streak-stats.demolab.com?user=Qianyiaz&theme=tokyonight&hide_border=%E7%9C%9F&locale=zh_Hans&mode=weekly&exclude_days=Mon&hide_longest_streak=true&line_height=20">
+  <img src = "https://streak-stats.demolab.com?user=Qianyiaz&theme=tokyonight&hide_border=%E7%9C%9F&mode=weekly&exclude_days=Mon&hide_longest_streak=true&line_height=20">
 </p>
 
 <p align="center">
