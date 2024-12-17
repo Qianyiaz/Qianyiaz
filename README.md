@@ -14,11 +14,4 @@
   <img src = "https://streak-stats.demolab.com?user=Qianyiaz&theme=tokyonight&hide_border=%E7%9C%9F&mode=weekly&exclude_days=Mon&hide_longest_streak=true&line_height=20">
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/-C sharp-black?style=flat-square&logo=c#"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-</p>
-
-
-###### 如果想交流请进入我的主页，打开billbill链接，私信交流。或邮箱<Qusay_Diaz.github@outlook.com>。QQ号：2976779544
+###### 如果想交流请进入我的主页，打开billbill链接，私信交流。或邮箱<Qusay_Diaz.github@outlook.com>。QQ号：2976779544 <img src="https://komarev.com/ghpvc/?username=Qianyiaz&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
