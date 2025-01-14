@@ -1,7 +1,8 @@
 <div align="center">
 
 # Qianyiaz's GitHub Page
-
+<br/>
+<div align="left">
 I am Qianyi, from Henan, China. Currently, I am a middle school student. Although I am younger compared to other programmers, I have a passion for programming. 
 
 I am proficient in C# and XAML. Currently, I am working on a launcher project. If you would like to support me, you can [click here](https://github.com/Qianyiaz/ChmlFrp_WPF_Clienter). Thank you for reading!
@@ -14,15 +15,15 @@ I am proficient in C# and XAML. Currently, I am working on a launcher project. I
   <img src="https://streak-stats.demolab.com?user=Qianyiaz&theme=tokyonight&hide_border=true&mode=weekly&exclude_days=Mon&hide_longest_streak=true&line_height=20" alt="Qianyiaz's GitHub Streak">
 </div>
 
-<div align="center">
+<div align="left">
 
 ### Contact Me
 
 If you would like to get in touch, please visit my homepage, open the Bilibili link, and send me a private message. You can also reach me at:
-- Email: <Qusay_Diaz.github@outlook.com>
-- QQ: 2976779544
 - X: [QusayDiaz](https://x.com/QusayDiaz)
+- - QQ: 2976779544
+- Email: <Qusay_Diaz.github@outlook.com>
+
+<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Qianyiaz&label=Views&color=0e75b6&style=flat)
-
-</div>
