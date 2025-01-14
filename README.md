@@ -21,7 +21,7 @@ I am proficient in C# and XAML. Currently, I am working on a launcher project. I
 
 If you would like to get in touch, please visit my homepage, open the Bilibili link, and send me a private message. You can also reach me at:
 - X: [QusayDiaz](https://x.com/QusayDiaz)
-- - QQ: 2976779544
+- QQ: 2976779544
 - Email: <Qusay_Diaz.github@outlook.com>
 
 <div align="center">
