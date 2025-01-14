@@ -1,17 +1,28 @@
 <div align="center">
-  
-我是千依，我来自中国，河南。我目前是一名初中生，虽然相比其他程序员年纪尚小，但热爱编程。
 
-目前会写C#或xaml。目前正在写一个启动器，如果想支持，可以[点击这](https://github.com/Qianyiaz/ChmlFrp_WPF_Clienter)，好了到此结束，感谢您的阅读。
+# Qianyiaz's GitHub Page
 
-<div/>
+I am Qianyi, from Henan, China. Currently, I am a middle school student. Although I am younger compared to other programmers, I have a passion for programming. 
 
-<br/>
+I am proficient in C# and XAML. Currently, I am working on a launcher project. If you would like to support me, you can [click here](https://github.com/Qianyiaz/ChmlFrp_WPF_Clienter). Thank you for reading!
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=qianyiaz&show_icons=true&theme=tokyonight&line_height=28">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Qianyiaz&layout=donut&theme=radical&line_height=30">
-  <img src = "https://streak-stats.demolab.com?user=Qianyiaz&theme=tokyonight&hide_border=%E7%9C%9F&mode=weekly&exclude_days=Mon&hide_longest_streak=true&line_height=20">
-</p>
+</div>
 
-###### 如果想交流请进入我的主页，打开billbill链接，私信交流。或邮箱<Qusay_Diaz.github@outlook.com>。QQ号：2976779544 <img src="https://komarev.com/ghpvc/?username=Qianyiaz&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=qianyiaz&show_icons=true&theme=tokyonight&line_height=28" alt="Qianyiaz's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qianyiaz&layout=donut&theme=radical&line_height=30" alt="Qianyiaz's Most Used Languages">
+  <img src="https://streak-stats.demolab.com?user=Qianyiaz&theme=tokyonight&hide_border=true&mode=weekly&exclude_days=Mon&hide_longest_streak=true&line_height=20" alt="Qianyiaz's GitHub Streak">
+</div>
+
+<div align="center">
+
+### Contact Me
+
+If you would like to get in touch, please visit my homepage, open the Bilibili link, and send me a private message. You can also reach me at:
+- Email: <Qusay_Diaz.github@outlook.com>
+- QQ: 2976779544
+- X: [QusayDiaz](https://x.com/QusayDiaz)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Qianyiaz&label=Views&color=0e75b6&style=flat)
+
+</div>
