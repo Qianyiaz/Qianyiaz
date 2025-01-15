@@ -11,8 +11,8 @@ I am proficient in C# and XAML. Currently, I am working on a launcher project. I
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=qianyiaz&show_icons=true&theme=tokyonight&line_height=28" alt="Qianyiaz's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qianyiaz&layout=donut&theme=radical&line_height=30" alt="Qianyiaz's Most Used Languages">
-  <img src="https://streak-stats.demolab.com?user=Qianyiaz&theme=tokyonight&hide_border=true&mode=weekly&exclude_days=Mon&hide_longest_streak=true&line_height=20" alt="Qianyiaz's GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qianyiaz&layout=donut&theme=tokyonight&line_height=30" alt="Qianyiaz's Most Used Languages">
+  <img src="https://streak-stats.demolab.com?user=Qianyiaz&theme=tokyonight&hide_border=true&mode=weekly&exclude_days=Mon&theme=tokyonight&hide_longest_streak=true&line_height=20" alt="Qianyiaz's GitHub Streak">
 </div>
 
 <div align="left">
