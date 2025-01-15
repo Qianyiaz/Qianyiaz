@@ -8,7 +8,7 @@
 <br/>
 <p align="center">
 <a href="https://github.com/Qianyiaz"><img src="https://img.shields.io/badge/GitHub-Qianyiaz-blue?logo=github" /></a>
-<a href="https://gitcode.com/Qianyiaz"><img src="https://img.shields.io/badge/Gitcode-Qianyiaz-red" /></a>
+<a href="https://gitcode.com/Qyzgj"><img src="https://img.shields.io/badge/Gitcode-Qyzgj-red" /></a>
 </p>
 <div align="left">
 I am Qusay Diaz, from Henan, China. Currently, I am a middle school student. Although I am younger compared to other programmers, I have a passion for programming. 
