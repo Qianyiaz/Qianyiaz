@@ -8,12 +8,11 @@
 <br/>
 <p align="center">
 <a href="https://github.com/Qianyiaz"><img src="https://img.shields.io/badge/GitHub-Qianyiaz-blue?logo=github" /></a>
-<a href="https://gitcode.com/Qyzgj"><img src="https://img.shields.io/badge/Gitcode-Qyzgj-red" /></a>
 </p>
 <div align="left">
 I am Qusay Diaz, from Henan, China. Currently, I am a middle school student. Although I am younger compared to other programmers, I have a passion for programming. 
 
-I am proficient in C# and XAML. Currently, I am working on a launcher project. If you would like to support me, you can [click here](https://github.com/Qianyiaz/ChmlFrp_WPF_Clienter). Thank you for reading!
+I am proficient in C# and XAML. Currently, I am working on a launcher project. If you would like to support me, you can [click here](https://github.com/ChmlFrp/CAT2). Thank you for reading!
 
 </div>
 
