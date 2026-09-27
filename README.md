@@ -10,8 +10,16 @@
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qianyiaz&theme=2077&animation=draw)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Qianyiaz&theme=2077&animation=draw)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Qianyiaz&theme=2077&animation=draw)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Qianyiaz&theme=2077&animation=draw)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Qianyiaz&theme=2077&animation=draw&utcOffset=0)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qianyiaz&theme=2077" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Qianyiaz&theme=2077" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Qianyiaz&theme=2077" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Qianyiaz&theme=2077" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Qianyiaz&theme=2077&utcOffset=8" />
+</p>
